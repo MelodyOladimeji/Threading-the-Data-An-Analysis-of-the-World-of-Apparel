@@ -18,4 +18,17 @@ This report looks at three main questions:
 The dataset includes thousands of transactions that show key details like how customers pay, what sizes they buy, the types of clothing sold, and more.
 
 ## Data Preview
+![Clothing](Clothing.png)
 
+
+## Data Cleaning and Transformation
+Deduplicated the dataset using Power Query to ensure data integrity.
+Filtered out null values to eliminate incomplete records.
+Standardized column headers for improved clarity and readability.
+
+## Detailed Findings & Analysis
+### Key Performance Indicators
+-**Total Net Profit:** $6.80M generated across all sales.
+-**Lost Profit:** $2.73M lost due to order cancellations and returns.
+-**Lost Revenue:** $10.82M in uncollected revenue from cancelled and returned orders.
+-**Average Order Value:** $2.72K per transaction.
