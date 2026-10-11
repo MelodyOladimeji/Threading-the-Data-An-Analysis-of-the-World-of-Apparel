@@ -43,7 +43,7 @@ Standardized column headers for improved clarity and readability.
 - **Highest-Earning Size**: Extra-Large (XL) clothing brought in the most profit at $1.18 million.
 = **Best-Performing Channel**: In-store shopping was the top sales channel, producing $3.46 million in total profit.
 
-###**Spend By Transaction Status**
+### **Spend By Transaction Status**
 - **Cancelled**: Cancelled transactions made up a whopping 20.5% of total transactions.
 - **Returned**: A total of $3.92 million in transactions were returned, which significantly affected total revenue.
 
